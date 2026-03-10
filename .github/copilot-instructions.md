@@ -1,0 +1,3 @@
+The Times Up app lets users pick a starting time. Then it lets users add 0 or more intevals to the current time with a slider and input box. they can pick the quantity of units and type of units (minute, hour, day, week, month, etc.). the starting time will default to the current date and time (mm-dd-yyyy) (hh-mm-ss). The slider should click to common intervals. 
+
+This app should be made using the MERN tech stack.
